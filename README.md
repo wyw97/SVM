@@ -1,2 +1,2 @@
 # SVM
-SVM HW
+SVM HW for machine learning
